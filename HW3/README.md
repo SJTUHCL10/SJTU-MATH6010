@@ -2,6 +2,6 @@
 
 ## [背包问题](./Knapsack)
 
-## [STS(v)](./Steiner)
+## [STS(v)](./Steiner-Triple-System)
 
-## [均匀图分割问题](./Uniform )
+## [均匀图分割问题](./Uniform-Graph-Partition)
