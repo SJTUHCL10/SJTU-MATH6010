@@ -1,4 +1,4 @@
-# Codes for homework 1
+# 贪心算法求解支配集问题
 
 ## 问题描述
 
